@@ -195,20 +195,20 @@ public class BinarySearchTree<AnyType extends Comparable<? super AnyType>> {
         return t;
     }
 
-    private void printLevelOrder() {
-        DoublyLinkedList<BinaryNode>
-        binaryNodes.add(root);
-        BinaryNode pointer = binaryNodes.get
-        while(!binaryNodes.isEmpty()){
-
-
-
-
-
-        }
-
-
-    }
+//    private void printLevelOrder() {
+//        DoublyLinkedList<BinaryNode>
+//        binaryNodes.add(root);
+//        BinaryNode pointer = binaryNodes.get
+//        while(!binaryNodes.isEmpty()){
+//
+//
+//
+//
+//
+//        }
+//
+//
+//    }
 
 
 
